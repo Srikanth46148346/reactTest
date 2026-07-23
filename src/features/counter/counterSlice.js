@@ -29,3 +29,5 @@ export const { increase, decrease, increaseByAmount, reset } = counterSlice.acti
 
 export default counterSlice.reducer;
 
+
+// testing 
