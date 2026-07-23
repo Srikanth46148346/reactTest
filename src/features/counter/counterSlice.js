@@ -29,11 +29,15 @@ export const { increase, decrease, increaseByAmount, reset } = counterSlice.acti
 
 export default counterSlice.reducer;
 
+// my testing
 
 // testing 
 
 
 // Testing rebase for the myrebase
+// Testing my rebase 
+
+// Testing my rebase 2
 
 
 // Testing the rebase 3
