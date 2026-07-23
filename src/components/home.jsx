@@ -2,6 +2,8 @@ import React from "react";
 import Child from "./child";
 import Test from "./test";
 import { useNavigate } from "react-router-dom";
+import Routing2 from "./routing/routing2";
+import CreateApplication from "./forms/testForms";
 
 function Home() {
   const some = ["sdf", "df", "23sd", "v323", "sdf2", "98sdf", "sdfb"];
@@ -22,6 +24,8 @@ function Home() {
       <Child some={some} />
       {/* <Test /> */}
       <button onClick={handleNavigation}>Navigate</button>
+      <Routing2></Routing2>
+      <CreateApplication></CreateApplication>
     </div>
   );
 }
