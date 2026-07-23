@@ -38,3 +38,6 @@ export default counterSlice.reducer;
 // Testing my rebase 
 
 // Testing my rebase 2
+
+
+// Testing the rebase 3
